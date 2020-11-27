@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Turismo en Uruguay</string>
+
+    <string name="pNombre"></string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="pLatitud">latitud</string>
+    <string name="pLongitud">Longitud</string>
+
+</resources>
